@@ -1,0 +1,13 @@
+.loading {
+  width: 100vw;
+  height: 100vh;
+  background-color: #101010;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading h1 {
+  color: white;
+  font-family: var(--font-primary);
+}
